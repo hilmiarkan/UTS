@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "color": "#32C759",
+      "image": "assets/icons/hias.png",
+      "itemImages": [
+        "assets/images/hias/bungamatahari.png",
+        "assets/images/hias/mawar.png",
+        "assets/images/hias/melati.png",
+        "assets/images/hias/anggrek.png",
+        "assets/images/hias/tulip.png"
+      ],
+      "items": [
+        {
+          "description": "Bunga matahari, dengan warna kuning cerah dan bentuk yang unik.",
+          "subtitle": "Simbol Kebahagiaan",
+          "title": "Bunga Matahari"
+        },
+        {
+          "description": "Mawar, dengan aroma dan keindahannya yang khas.",
+          "subtitle": "Simbol Cinta dan Kecantikan",
+          "title": "Mawar"
+        },
+        {
+          "description": "Melati, dengan aroma yang harum dan bentuk yang elegan.",
+          "subtitle": "Simbol Kesucian",
+          "title": "Melati"
+        },
+        {
+          "description": "Anggrek, dengan berbagai warna dan bentuk yang unik.",
+          "subtitle": "Simbol Kebesaran dan Keindahan",
+          "title": "Anggrek"
+        },
+        {
+          "description": "Tulip, dengan warna-warna yang cerah dan bentuk yang elegan.",
+          "subtitle": "Simbol Kebanggaan dan Kejayaan",
+          "title": "Tulip"
+        }
+      ],
+      "title": "Hias"
+    },
+    {
+      "color": "#E4A2EE",
+      "image": "assets/icons/buah.png",
+      "itemImages": [
+        "assets/images/buah/apel.png",
+        "assets/images/buah/mangga.png",
+        "assets/images/buah/jeruk.png",
+        "assets/images/buah/semangka.png",
+        "assets/images/buah/pisang.png"
+      ],
+      "items": [
+        {
+          "description": "Apel, dengan rasa yang manis dan segar.",
+          "subtitle": "Buah Segar dan Bergizi",
+          "title": "Apel"
+        },
+        {
+          "description": "Mangga, dengan rasa yang manis dan aroma yang khas.",
+          "subtitle": "Buah Tropis yang Lezat",
+          "title": "Mangga"
+        },
+        {
+          "description": "Jeruk, dengan rasa yang asam dan segar.",
+          "subtitle": "Buah Segar yang Kaya Vitamin C",
+          "title": "Jeruk"
+        },
+        {
+          "description": "Semangka, dengan rasa yang manis dan segar.",
+          "subtitle": "Buah Segar yang Menyegarkan",
+          "title": "Semangka"
+        },
+        {
+          "description": "Pisang, dengan rasa yang manis dan tekstur yang lembut.",
+          "subtitle": "Buah yang Kaya Nutrisi",
+          "title": "Pisang"
+        }
+      ],
+      "title": "Buah"
+    },
+    {
+      "color": "#EE4562",
+      "image": "assets/icons/sayur.png",
+      "itemImages": [
+        "assets/images/sayur/bayam.png",
+        "assets/images/sayur/kangkung.png",
+        "assets/images/sayur/terong.png",
+        "assets/images/sayur/tomat.png",
+        "assets/images/sayur/wortel.png"
+      ],
+      "items": [
+        {
+          "description": "Bayam, dengan kandungan zat besi dan vitamin yang tinggi.",
+          "subtitle": "Sayuran yang Kaya Nutrisi",
+          "title": "Bayam"
+        },
+        {
+          "description": "Kangkung, dengan rasa yang segar dan tekstur yang renyah.",
+          "subtitle": "Sayuran yang Segar dan Lezat",
+          "title": "Kangkung"
+        },
+        {
+          "description": "Terong, dengan rasa yang lezat dan tekstur yang empuk.",
+          "subtitle": "Sayuran yang Cocok untuk Berbagai Masakan",
+          "title": "Terong"
+        },
+        {
+          "description": "Tomat, dengan rasa yang asam dan kandungan likopen yang tinggi.",
+          "subtitle": "Sayuran yang Kaya Antioksidan",
+          "title": "Tomat"
+        },
+        {
+          "description": "Wortel, dengan rasa yang manis dan kandungan vitamin A yang tinggi.",
+          "subtitle": "Sayuran yang Kaya Vitamin A",
+          "title": "Wortel"
+        }
+      ],
+      "title": "Sayur"
+    },
+    {
+      "color": "#42ABFF",
+      "image": "assets/icons/obat.png",
+      "itemImages": [
+        "assets/images/obat/daunsirih.png",
+        "assets/images/obat/temulawak.png",
+        "assets/images/obat/lidahbuaya.png",
+        "assets/images/obat/jahe.png",
+        "assets/images/obat/kunyit.png"
+      ],
+      "items": [
+        {
+          "description": "Daun sirih, dengan kandungan antiseptik dan antioksidan yang tinggi.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Mulut",
+          "title": "Daun Sirih"
+        },
+        {
+          "description": "Temulawak, dengan rimpang berwarna kuning dan aroma khasnya.",
+          "subtitle": "Ramuan Herbal untuk Pencernaan",
+          "title": "Temulawak"
+        },
+        {
+          "description": "Lidah buaya, dengan kandungan gel yang dapat melembapkan kulit.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Kulit",
+          "title": "Lidah Buaya"
+        },
+        {
+          "description": "Jahe, dengan kandungan gingerol yang dapat meredakan masalah pencernaan.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Pencernaan",
+          "title": "Jahe"
+        },
+        {
+          "description": "Kunyit, dengan kandungan kurkumin yang dapat menjaga kesehatan jantung.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Jantung",
+          "title": "Kunyit"
+        }
+      ],
+      "title": "Obat"
+    }
+  ]
+}

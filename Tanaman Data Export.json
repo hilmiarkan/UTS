@@ -1,0 +1,160 @@
+{
+  "exercises": [
+    {
+      "color": "#32C759",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/icons%2Fhias.png?alt=media&token=755b1a37-c7f3-49af-98a7-c37c35cf3920",
+      "itemImages": [
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fhias%2Fbungamatahari.png?alt=media&token=bf4865fd-5e7c-4f0d-a923-992229aa1ccb",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fhias%2Fmawar.png?alt=media&token=65f4a3f8-a84a-412c-ab17-9c49bdc6972a",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fhias%2Fmelati.png?alt=media&token=14deb678-92a1-4665-a8dd-ce06ca1a1502",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fhias%2Fanggrek.png?alt=media&token=f6d800b0-3dc1-436e-b7ef-e15522eca7b3",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fhias%2Ftulip.png?alt=media&token=430351ae-fa3f-4e2e-bee7-f669d64a53ff"
+      ],
+      "items": [
+        {
+          "description": "Bunga matahari, dengan warna kuning cerah dan bentuk yang unik.",
+          "subtitle": "Simbol Kebahagiaan",
+          "title": "Bunga Matahari"
+        },
+        {
+          "description": "Mawar, dengan aroma dan keindahannya yang khas.",
+          "subtitle": "Simbol Cinta dan Kecantikan",
+          "title": "Mawar"
+        },
+        {
+          "description": "Melati, dengan aroma yang harum dan bentuk yang elegan.",
+          "subtitle": "Simbol Kesucian",
+          "title": "Melati"
+        },
+        {
+          "description": "Anggrek, dengan berbagai warna dan bentuk yang unik.",
+          "subtitle": "Simbol Kebesaran dan Keindahan",
+          "title": "Anggrek"
+        },
+        {
+          "description": "Tulip, dengan warna-warna yang cerah dan bentuk yang elegan.",
+          "subtitle": "Simbol Kebanggaan dan Kejayaan",
+          "title": "Tulip"
+        }
+      ],
+      "title": "Hias"
+    },
+    {
+      "color": "#E4A2EE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/icons%2Fbuah.png?alt=media&token=194f3e80-b52f-440a-b555-548fecc97832",
+      "itemImages": [
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fbuah%2Fapel.png?alt=media&token=b15f0b63-9ef0-4278-82fd-f54ed96f50a2",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fbuah%2Fjeruk.png?alt=media&token=5ded6b44-83d2-439e-908e-d792a4bc6966",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fbuah%2Fjeruk.png?alt=media&token=5ded6b44-83d2-439e-908e-d792a4bc6966",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fbuah%2Fsemangka.png?alt=media&token=88322c13-d608-4ff0-918d-54c91129e003",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fbuah%2Fpisang.png?alt=media&token=0a54c6da-a4d4-4753-9faf-5773c4d91097"
+      ],
+      "items": [
+        {
+          "description": "Apel, dengan rasa yang manis dan segar.",
+          "subtitle": "Buah Segar dan Bergizi",
+          "title": "Apel"
+        },
+        {
+          "description": "Mangga, dengan rasa yang manis dan aroma yang khas.",
+          "subtitle": "Buah Tropis yang Lezat",
+          "title": "Mangga"
+        },
+        {
+          "description": "Jeruk, dengan rasa yang asam dan segar.",
+          "subtitle": "Buah Segar yang Kaya Vitamin C",
+          "title": "Jeruk"
+        },
+        {
+          "description": "Semangka, dengan rasa yang manis dan segar.",
+          "subtitle": "Buah Segar yang Menyegarkan",
+          "title": "Semangka"
+        },
+        {
+          "description": "Pisang, dengan rasa yang manis dan tekstur yang lembut.",
+          "subtitle": "Buah yang Kaya Nutrisi",
+          "title": "Pisang"
+        }
+      ],
+      "title": "Buah"
+    },
+    {
+      "color": "#EE4562",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/icons%2Fsayur.png?alt=media&token=82b3ae06-f3a5-493b-8e5d-aca67d8f5cea",
+      "itemImages": [
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fsayur%2Fbayam.png?alt=media&token=2ddd1f29-43d2-498c-9406-d208c211d494",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fsayur%2Fkangkung.png?alt=media&token=848323a5-4cda-4bab-939a-42bf76e08115",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fsayur%2Fterong.png?alt=media&token=517f2026-0985-4b74-bf17-2e95727c679b",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fsayur%2Ftomat.png?alt=media&token=9cb5fdbc-e24a-4ee7-9f3c-03d82a1b2882",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fsayur%2Fwortel.png?alt=media&token=6ce6a153-e2b6-4f44-885e-17e803eacfd4"
+      ],
+      "items": [
+        {
+          "description": "Bayam, dengan kandungan zat besi dan vitamin yang tinggi.",
+          "subtitle": "Sayuran yang Kaya Nutrisi",
+          "title": "Bayam"
+        },
+        {
+          "description": "Kangkung, dengan rasa yang segar dan tekstur yang renyah.",
+          "subtitle": "Sayuran yang Segar dan Lezat",
+          "title": "Kangkung"
+        },
+        {
+          "description": "Terong, dengan rasa yang lezat dan tekstur yang empuk.",
+          "subtitle": "Sayuran yang Cocok untuk Berbagai Masakan",
+          "title": "Terong"
+        },
+        {
+          "description": "Tomat, dengan rasa yang asam dan kandungan likopen yang tinggi.",
+          "subtitle": "Sayuran yang Kaya Antioksidan",
+          "title": "Tomat"
+        },
+        {
+          "description": "Wortel, dengan rasa yang manis dan kandungan vitamin A yang tinggi.",
+          "subtitle": "Sayuran yang Kaya Vitamin A",
+          "title": "Wortel"
+        }
+      ],
+      "title": "Sayur"
+    },
+    {
+      "color": "#42ABFF",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/icons%2Fobat.png?alt=media&token=fdf0ce8b-48f3-4d80-935a-87f9f5b8fa8a",
+      "itemImages": [
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fobat%2Fdaunsirih.png?alt=media&token=e0ba7065-af1d-4801-b52e-4abea49cfeb7",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fobat%2Ftemulawak.png?alt=media&token=5b925493-5f07-41df-a88c-9d8617dab460",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fobat%2Flidahbuaya.png?alt=media&token=a03af288-3904-426c-a209-be20c81f9e6c",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fobat%2Fjahe.png?alt=media&token=0e7ce0ae-d3d4-4e30-aa0c-07f0d8345e45",
+        "https://firebasestorage.googleapis.com/v0/b/tanaman-ade36.appspot.com/o/images%2Fobat%2Fkunyit.png?alt=media&token=cf881053-7276-4c01-a755-0be2cdcd259c"
+      ],
+      "items": [
+        {
+          "description": "Daun sirih, dengan kandungan antiseptik dan antioksidan yang tinggi.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Mulut",
+          "title": "Daun Sirih"
+        },
+        {
+          "description": "Temulawak, dengan rimpang berwarna kuning dan aroma khasnya.",
+          "subtitle": "Ramuan Herbal untuk Pencernaan",
+          "title": "Temulawak"
+        },
+        {
+          "description": "Lidah buaya, dengan kandungan gel yang dapat melembapkan kulit.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Kulit",
+          "title": "Lidah Buaya"
+        },
+        {
+          "description": "Jahe, dengan kandungan gingerol yang dapat meredakan masalah pencernaan.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Pencernaan",
+          "title": "Jahe"
+        },
+        {
+          "description": "Kunyit, dengan kandungan kurkumin yang dapat menjaga kesehatan jantung.",
+          "subtitle": "Ramuan Herbal untuk Kesehatan Jantung",
+          "title": "Kunyit"
+        }
+      ],
+      "title": "Obat"
+    }
+  ]
+}
